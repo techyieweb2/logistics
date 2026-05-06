@@ -1,0 +1,21 @@
+<Solution>
+  <Project Path="Services/CustomerService/CustomerService.Api/CustomerService.Api.csproj" Id="82e7a91c-9788-4aa0-bbee-e7958fa65c30" />
+  <Project Path="Services/CustomerService/CustomerService.Domain/CustomerService.Domain.csproj" Id="c00952e7-0dfb-4260-a774-0661e564f6b5" />
+  <Project Path="Services/CustomerService/CustomerService.Infrastructure/CustomerService.Infrastructure.csproj" Id="1d67e7ae-a979-4f01-b07a-8747c0ece8fe" />
+  <Project Path="Services/DispatcherService/DispatcherService.Api/DispatcherService.Api.csproj" Id="d66d5aaf-eafa-4893-87d2-3a1cbac473c9" />
+  <Project Path="Services/DispatcherService/DispatcherService.Domain/DispatcherService.Domain.csproj" Id="255bebcf-1466-4de1-8d50-a510ebdbf842" />
+  <Project Path="Services/DispatcherService/DispatcherService.Infrastructure/DispatcherService.Infrastructure.csproj" Id="26eb04b4-15e8-46fb-832d-db7a3fbbe673" />
+  <Project Path="Services/DriverService/DriverService.Api/DriverService.Api.csproj" />
+  <Project Path="Services/DriverService/DriverService.Domain/DriverService.Domain.csproj" />
+  <Project Path="Services/DriverService/DriverService.Infrastructure/DriverService.Infrastructure.csproj" />
+  <Project Path="Services/ReportService/ReportService.Api/ReportService.Api.csproj" Id="8b09e8d2-2eae-4df2-8216-35da85f1b009" />
+  <Project Path="Services/ReportService/ReportService.Domain/ReportService.Domain.csproj" Id="a70920c5-4ff2-4eb6-914a-a47e183a269a" />
+  <Project Path="Services/ReportService/ReportService.Infrastructure/ReportService.Infrastructure.csproj" Id="cb3caf08-9a05-4616-92e0-a1232064faeb" />
+  <Project Path="Services/TripService/TripService.Api/TripService.Api.csproj" Id="287229ff-4834-496d-b29b-685aecc95db4" />
+  <Project Path="Services/TripService/TripService.Domain/TripService.Domain.csproj" Id="8c432411-5e21-4790-a5ed-1828cae89cdb" />
+  <Project Path="Services/TripService/TripService.Infrastructure/TripService.Infrastructure.csproj" Id="04c7396f-c3c4-4e36-a50d-74a88012f99a" />
+  <Project Path="Services/TruckService/TruckService.Api/TruckService.Api.csproj" Id="594a9f24-388c-4703-a0b8-a5dfd9b546c5" />
+  <Project Path="Services/TruckService/TruckService.Domain/TruckService.Domain.csproj" Id="3eff41ab-48de-4542-8ca4-1411cc95ee3d" />
+  <Project Path="Services/TruckService/TruckService.Infrastructure/TruckService.Infrastructure.csproj" Id="903d054b-64a5-45c3-b3bb-ca609ab23207" />
+  <Project Path="Shared/Shared.Kernel/Shared.Kernel.csproj" Id="f73aff32-7f72-486b-a04d-73d4507388c0" />
+</Solution>
