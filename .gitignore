@@ -2,3 +2,13 @@
 **/obj
 **/.vs
 **/node_modules
+
+# .gitignore
+appsettings.json
+appsettings.*.json
+# Keep the template
+!appsettings.example.json
+
+docker-compose.yml
+# Keep override files out too
+docker-compose.override.yml
